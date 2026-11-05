@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContainerizationTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+279e6e1e963d36a37f30734d96a832bb6c312531")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1f59c1c6a0e8420e7503c5634a1117706ead27f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContainerizationTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContainerizationTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
